@@ -1,6 +1,6 @@
 # analog_clock
 
-A new Flutter project.
+Flutter Analog Clock
 
 ## Getting Started
 
